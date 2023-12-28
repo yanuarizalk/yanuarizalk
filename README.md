@@ -4,8 +4,8 @@
 
 <h3 align="center">Summary</h3><hr />
 <div >
-<img width="49%" src="https://api.playcourt.yanuarizal.net/api?remote_username=yanuarizalk&remote_gitlab=gitlab.playcourt.id&theme=dark&show_icons=true&line_height=25" />
-<img align="right" width="49%" src="https://github-readme-stats.vercel.app/api?username=yanuarizalk&theme=dark&hide=stars,contribs&hide_rank=true&include_all_commits=true&line_height=18" />
+<img width="48%" src="https://api.playcourt.yanuarizal.net/api?remote_username=yanuarizalk&remote_gitlab=gitlab.playcourt.id&theme=dark&show_icons=true&line_height=25" />
+<img align="right" width="48%" src="https://github-readme-stats.vercel.app/api?username=yanuarizalk&theme=dark&hide=stars,contribs&hide_rank=true&include_all_commits=true&line_height=18" />
 </div>
 <br />
 
