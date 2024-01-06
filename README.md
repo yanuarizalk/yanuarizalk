@@ -10,6 +10,6 @@
 <br />
 
 <h3 align="center">2023 contribs @ Telkom playcourt</h3><hr />
-<img align="center" width="100%" src="https://gitlab-readme-stats-mu.vercel.app/api/calendar?remote_username=yanuarizalk&remote_gitlab=gitlab.playcourt.id&start=2023-01-01&end=2023-12-31&offset=7" />
+<img align="center" width="100%" src="https://api.playcourt.yanuarizal.net/api/calendar?remote_username=yanuarizalk&remote_gitlab=gitlab.playcourt.id&start=2023-01-01&end=2023-12-31&offset=7" />
 
 
